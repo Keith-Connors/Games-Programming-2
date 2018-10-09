@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="294a8c02-49f1-4309-9492-d89ec09f75ea" name="Default Changelist" comment="" />
+    <list default="true" id="b1631992-fe7e-40f6-baa3-2f74cf7e4772" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,32 +9,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1069711850">
+    <session id="873198346">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="1" />
+          <entry key="cs" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="1" />
+          <entry key="C#" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="24" />
+          <entry key="cs" value="892" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="24" />
+          <entry key="C#" value="892" />
         </counts>
       </usages-collector>
     </session>
@@ -42,16 +41,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab4_Exercise2/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Lab4_Exercise3/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding>
-                <marker date="1539078846078" expanded="true" signature="39:257" ph="{...}" />
-                <marker date="1539078846078" expanded="true" signature="68:255" ph="{...}" />
-                <marker date="1539078846078" expanded="true" signature="121:249" ph="{...}" />
-                <marker date="1539078846078" expanded="true" signature="173:239" ph="{...}" />
+                <marker date="1539083980214" expanded="true" signature="6:66" ph="..." />
+                <marker date="1539083980214" expanded="true" signature="92:761" ph="{...}" />
+                <marker date="1539083980214" expanded="true" signature="112:759" ph="{...}" />
+                <marker date="1539083980214" expanded="true" signature="165:753" ph="{...}" />
+                <marker date="1539083980214" expanded="true" signature="428:577" ph="{...}" />
+                <marker date="1539083980214" expanded="true" signature="673:743" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/source/repos/lab3_exercise2/lab3_exercise2/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -62,12 +72,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Lab4_Exercise2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/source/repos/lab3_exercise2/lab3_exercise2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab4_Exercise3/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lab4_Exercise2/Program.cs" />
+        <option value="$PROJECT_DIR$/Lab4_Exercise3/Program.cs" />
       </list>
     </option>
   </component>
@@ -113,14 +124,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Lab4_Exercise2/bin/Debug/Lab4_Exercise2.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Lab4_Exercise3/bin/Debug/Lab4_Exercise3.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4_Exercise2/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4_Exercise3/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lab4_Exercise2/Lab4_Exercise2.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lab4_Exercise3/Lab4_Exercise3.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -136,17 +147,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="294a8c02-49f1-4309-9492-d89ec09f75ea" name="Default Changelist" comment="" />
-      <created>1539078757465</created>
+      <changelist id="b1631992-fe7e-40f6-baa3-2f74cf7e4772" name="Default Changelist" comment="" />
+      <created>1539078990514</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539078757465</updated>
-      <workItem from="1539078758702" duration="227000" />
+      <updated>1539078990514</updated>
+      <workItem from="1539078991698" duration="4387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227000" />
+    <option name="totallyTimeSpent" value="4387000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -174,7 +185,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -206,15 +217,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab4_Exercise2/Program.cs">
+    <entry file="file://$USER_HOME$/source/repos/lab3_exercise2/lab3_exercise2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4_Exercise3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
-            <marker date="1539078846078" expanded="true" signature="39:257" ph="{...}" />
-            <marker date="1539078846078" expanded="true" signature="68:255" ph="{...}" />
-            <marker date="1539078846078" expanded="true" signature="121:249" ph="{...}" />
-            <marker date="1539078846078" expanded="true" signature="173:239" ph="{...}" />
+            <marker date="1539083980214" expanded="true" signature="6:66" ph="..." />
+            <marker date="1539083980214" expanded="true" signature="92:761" ph="{...}" />
+            <marker date="1539083980214" expanded="true" signature="112:759" ph="{...}" />
+            <marker date="1539083980214" expanded="true" signature="165:753" ph="{...}" />
+            <marker date="1539083980214" expanded="true" signature="428:577" ph="{...}" />
+            <marker date="1539083980214" expanded="true" signature="673:743" ph="{...}" />
           </folding>
         </state>
       </provider>
